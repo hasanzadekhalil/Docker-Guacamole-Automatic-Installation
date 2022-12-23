@@ -34,7 +34,7 @@ chmod +x install.sh
 ---
 Screenshot
 ===
-![image](https://raw.githubusercontent.com/hasanzadekhalil/guacamole/screenshot/guacamole.jpg)
+![image](https://raw.githubusercontent.com/hasanzadekhalil/Docker-Guacamole-Automatic-Installation/main/screenshot/guacamole.jpg)
 ---
 
 Credits
