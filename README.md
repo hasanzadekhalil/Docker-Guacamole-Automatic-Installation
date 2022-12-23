@@ -34,7 +34,7 @@ chmod +x install.sh
 ---
 Screenshot
 ===
-![image](https://raw.githubusercontent.com/hasanzadekhalil/guacamole/main/screenshot/guacamole.jpg)
+![image](https://raw.githubusercontent.com/hasanzadekhalil/guacamole/screenshot/guacamole.jpg)
 ---
 
 Credits
