@@ -25,7 +25,7 @@ For installation, simply run the commands below.:
 
 ```
 cd /tmp
-git clone https://github.com/khalilhasanzade/guacamole.git
+git clone https://github.com/hasanzadekhalil/guacamole.git
 cd guacamole
 chmod +x install.sh
 ./install.sh
@@ -34,7 +34,7 @@ chmod +x install.sh
 ---
 Screenshot
 ===
-![image](https://raw.githubusercontent.com/khalilhasanzade/guacamole/main/screenshot/guacamole.jpg)
+![image](https://raw.githubusercontent.com/hasanzadekhalil/guacamole/main/screenshot/guacamole.jpg)
 ---
 
 Credits
